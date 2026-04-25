@@ -1,0 +1,37 @@
+uploads = []
+
+[[generated]]
+id = "NHdiqn30SiTG6fYq1VcxJ"
+uri = "file://artifacts/mobile/assets/images/icon.png"
+type = "image"
+title = "generated_image"
+
+[[outputs]]
+id = "E4bkfeBk1qSQxiH1pRhKH"
+uri = "file://exports/logo-vemaprendercomigo.svg"
+type = "image"
+title = "Logo — VemAprenderComigo"
+
+[[outputs]]
+id = "4liEmFwWNgfYbRZGS3_40"
+uri = "file://exports/qrcode-site-final.png"
+type = "image"
+title = "QR Code — Site VemAprenderComigo"
+
+[[outputs]]
+id = "tqB_QI0hyc55tXFWmwaTf"
+uri = "file://exports/qrcode-site-prod.png"
+type = "image"
+title = "QR Code — Site Web (app-aprendamecontando.replit.app)"
+
+[[outputs]]
+id = "Yqjj_11cQbrp5hS22PuvR"
+uri = "file://exports/qrcode-mobile.png"
+type = "image"
+title = "QR Code — App Mobile (abrir no Expo Go)"
+
+[[outputs]]
+id = "go1xJ7rKUbmP30O8k3WvN"
+uri = "file://exports/apostila-python.pdf"
+type = "pdf"
+title = "Apostila de Python para Iniciantes"
