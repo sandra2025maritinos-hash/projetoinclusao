@@ -18,17 +18,16 @@
   [37mdist/[0m[1mpino-pretty.mjs.map[0m           [36m203.9kb[0m
   [37mdist/[0m[1mthread-stream-worker.mjs.map[0m   [36m12.0kb[0m
 
-⚡ [32mDone in 975ms[0m
+⚡ [32mDone in 1138ms[0m
 
 > @workspace/api-server@0.0.0 start /home/runner/workspace/artifacts/api-server
 > node --enable-source-maps ./dist/index.mjs
 
-[06:42:29.915] [32mINFO[39m (303): [36mDatabase already seeded, skipping.[39m
-[06:42:29.959] [32mINFO[39m (303): [36mPatch: Tabelas do portal dos pais verificadas/criadas.[39m
-[06:42:29.974] [32mINFO[39m (303): [36mPatch: Categorias de Digitação de Miguel atualizadas.[39m
-[06:42:29.990] [32mINFO[39m (303): [36mPatch: Sofia configurada completamente.[39m
-[06:42:29.991] [32mINFO[39m (303): [36mPatch: Tabela file_uploads verificada/criada.[39m
-[06:42:29.993] [32mINFO[39m (303): [36mServer listening[39m
+[23:35:55.826] [32mINFO[39m (315): [36mDatabase already seeded, skipping.[39m
+[23:35:55.871] [32mINFO[39m (315): [36mPatch: Tabelas do portal dos pais verificadas/criadas.[39m
+[23:35:55.879] [32mINFO[39m (315): [36mPatch: Categorias de Digitação de Miguel atualizadas.[39m
+[23:35:55.894] [32mINFO[39m (315): [36mPatch: Sofia configurada completamente.[39m
+[23:35:55.897] [32mINFO[39m (315): [36mServer listening[39m
     [35mport[39m: 8080
 [41m[30m ELIFECYCLE [39m[49m [31mCommand failed.[39m
 [41m[30m ERR_PNPM_RECURSIVE_RUN_FIRST_FAIL [39m[49m [31m@workspace/api-server@0.0.0 dev: `export NODE_ENV=development && pnpm run build && pnpm run start`[39m
